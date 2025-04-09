@@ -1,0 +1,20 @@
+# Unity Generated Files (DO NOT TRACK)
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+
+# User-Specific & System Files
+UserSettings/
+*.user
+.DS_Store
+Thumbs.db
+
+# Ignore Unity Collab files
+.collabignore
+
